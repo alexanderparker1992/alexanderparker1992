@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexanderparker1992
-- 👀 I’m interested in interesting projects
-- 🌱 I’m currently learning React/TypeScript
+- 👀 I’m interested in interesting projects and continuous learning
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: alexanderparker1992@gmail.com
 
